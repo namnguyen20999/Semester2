@@ -10,3 +10,5 @@ Reference oh how to read/write data from sensor to [firebase](https://www.hackst
 [RTD PT 100 temeperature readings](https://www.pyromation.com/Downloads/Data/385_c.pdf)
 
 [4-20mA transmitter](http://www.absolutelyautomation.com/articles/2017/05/12/4-20-ma-current-loop-simulator-using-rtd-pt100-temperature-transmitter)
+
+Updated/corrected the Report stored in the Documentation/Report folder.
